@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Mechine Learning Development Kit**
 
-- 👯 I’m looking to collaborate on **Android Operating Schedule Management System**
+- 👯 I’m looking to collaborate on **<img src="http://www.jellymuffin.com/images/baby/images/itsaboyblocks.gif" width="30">Android Operating Schedule Management System**
 
 - 🤝 I’m looking for help with **An Android Based Mobile Application For Career Guidance**
 
