@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<h1 align="center">Hi 👋, I'm Shubham Singh</h1>
+<h1 align="center">Hi <img src="https://bestanimations.com/Music/Dancers/funny-panda-dancing.gif" width="30">, I'm Shubham Singh</h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://gifimage.net/wp-content/uploads/2017/10/dance-gif-animated-11.gif">
