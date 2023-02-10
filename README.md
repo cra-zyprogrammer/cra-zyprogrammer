@@ -16,6 +16,7 @@
 - 🤝 I’m looking for help with **An Android Based Mobile Application For Career Guidance**
 
 - 💬 Ask me about **Android Development**
+- 📝 I regularly write articles on**https://thetechtrendsetters.blogspot.com/**
 
 - 📫 How to reach me **crazyprogrammer9761@gmail.com**
 
