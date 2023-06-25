@@ -41,3 +41,9 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cra-zyprogrammer&show_icons=true&locale=en" alt="cra-zyprogrammer" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cra-zyprogrammer&" alt="cra-zyprogrammer" /></p>
+
+
+
+## Watch Snake Eating My Github Contributions
+![snake gif](https://github.com/cra-zyprogrammer/cra-zyprogrammer/blob/output/github-contribution-grid-snake.svg)
+
