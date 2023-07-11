@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cra-zyprogrammer&label=Profile%20views&color=0e75b6&style=flat" alt="cra-zyprogrammer" /> </p>
 
-- 🔭 I’m currently working on **Library Management System Mobile App**
+- 🔭 .I’m currently working on **Library Management System Mobile App**
 
 - 🌱 I’m currently learning **Mechine Learning Development Kit**
 
