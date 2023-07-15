@@ -47,3 +47,5 @@
 ## Watch Snake Eating My Github Contributions
 ![snake gif](https://github.com/cra-zyprogrammer/cra-zyprogrammer/blob/output/github-contribution-grid-snake.svg)
 
+![snake gif](https://github.com/cra-zyprogrammer/cra-zyprogrammer/blob/output/github-contribution-grid-snake.svg)
+
