@@ -19,6 +19,8 @@
 - 📝 I regularly write articles on **https://thetechtrendsetters.blogspot.com**
 
 - 📫 How to reach me **crazyprogrammer9761@gmail.com**
+  
+- 💬 It's my official website to reach more **https://cra-zyprogrammer.github.io/Shubham-Singh/**
 
 - 📄 Know about my experiences **https://www.linkedin.com/in/shubham-singh-b78b72227**
 
