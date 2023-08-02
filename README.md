@@ -9,7 +9,7 @@
 
 - 🔭 .I’m currently working on **Library Management System Mobile App**
 
-- 🌱 I’m currently learning **Mechine Learning Development Kit**
+- 📡 I’m currently learning **Mechine Learning Development Kit**
 
 - 👯 I’m looking to collaborate on **<img src="http://www.jellymuffin.com/images/baby/images/itsaboyblocks.gif" width="30">Android Operating Schedule Management System**
 
