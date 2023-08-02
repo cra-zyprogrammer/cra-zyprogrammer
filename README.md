@@ -1,6 +1,6 @@
 ![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)
 
-<h1 align="center">Hi <img src="https://bestanimations.com/Music/Dancers/funny-panda-dancing.gif" width="30">, I'm Shubham Singh</h1>
+<h1 align="center">Hi <img src="https://bestanimations.com/Music/Dancers/funny-panda-dancing.gif" width="30">, I'm Shubham </h1>
 <h3 align="center">A passionate Android developer from India</h3>
 
 <img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/BhavyaCodes/BhavyaCodes/master/.github/cat.gif">
@@ -16,6 +16,7 @@
 - 🤝 I’m looking for help with **An Android Based Mobile Application For Career Guidance**
 
 - 💬 Ask me about **Android Development**
+  
 - 📝 I regularly write articles on **https://thetechtrendsetters.blogspot.com**
 
 - 📫 How to reach me **crazyprogrammer9761@gmail.com**
