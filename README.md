@@ -47,6 +47,3 @@
 
 
 
-![snake gif](https://github.com/cra-zyprogrammer/cra-zyprogrammer/blob/output/github-contribution-grid-snake.gif)
-
-
