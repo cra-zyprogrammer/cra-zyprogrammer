@@ -60,7 +60,7 @@ on Network, Cryptography & Security , **Jawaharlal Nehru University**, 2026, Pap
 - ⛓️ **Blockchain and its Applications** — **NPTEL, IIT Kharagpur** (2024)
 - 🏅 **Investment Banking Professional Certificate** – **J.P. Morgans **(June 2023)
 - 🏅 **DATA Visualization: Empowering Business** – **TATA Skills Certification** (Jun 2023)
-- 💹 Tally Prime & ERP 9 — **Star Computer Institute** (2022)
+- 💹 **Tally Prime & ERP 9** — **Star Computer Institute** (2022)
 
 ---
 
