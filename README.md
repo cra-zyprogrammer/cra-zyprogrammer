@@ -64,7 +64,7 @@ on Network, Cryptography & Security , **Jawaharlal Nehru University**, 2026, Pap
 
 ---
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Shubh-Verse&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="Top Languages" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Shubh-Verse&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
 </p>
